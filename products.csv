@@ -1,0 +1,1261 @@
+product_ID,product_type,product_name,size,colour,price,quantity
+0,Shirt,Oxford Cloth,XS,red,114,66
+1,Shirt,Oxford Cloth,S,red,114,53
+2,Shirt,Oxford Cloth,M,red,114,54
+3,Shirt,Oxford Cloth,L,red,114,69
+4,Shirt,Oxford Cloth,XL,red,114,47
+5,Shirt,Oxford Cloth,XS,orange,114,45
+6,Shirt,Oxford Cloth,S,orange,114,72
+7,Shirt,Oxford Cloth,M,orange,114,77
+8,Shirt,Oxford Cloth,L,orange,114,48
+9,Shirt,Oxford Cloth,XL,orange,114,43
+10,Shirt,Oxford Cloth,XS,yellow,114,72
+11,Shirt,Oxford Cloth,S,yellow,114,78
+12,Shirt,Oxford Cloth,M,yellow,114,56
+13,Shirt,Oxford Cloth,L,yellow,114,75
+14,Shirt,Oxford Cloth,XL,yellow,114,50
+15,Shirt,Oxford Cloth,XS,green,114,68
+16,Shirt,Oxford Cloth,S,green,114,56
+17,Shirt,Oxford Cloth,M,green,114,60
+18,Shirt,Oxford Cloth,L,green,114,52
+19,Shirt,Oxford Cloth,XL,green,114,42
+20,Shirt,Oxford Cloth,XS,blue,114,47
+21,Shirt,Oxford Cloth,S,blue,114,51
+22,Shirt,Oxford Cloth,M,blue,114,57
+23,Shirt,Oxford Cloth,L,blue,114,59
+24,Shirt,Oxford Cloth,XL,blue,114,60
+25,Shirt,Oxford Cloth,XS,indigo,114,61
+26,Shirt,Oxford Cloth,S,indigo,114,59
+27,Shirt,Oxford Cloth,M,indigo,114,62
+28,Shirt,Oxford Cloth,L,indigo,114,70
+29,Shirt,Oxford Cloth,XL,indigo,114,55
+30,Shirt,Oxford Cloth,XS,violet,114,74
+31,Shirt,Oxford Cloth,S,violet,114,41
+32,Shirt,Oxford Cloth,M,violet,114,65
+33,Shirt,Oxford Cloth,L,violet,114,73
+34,Shirt,Oxford Cloth,XL,violet,114,54
+35,Shirt,Dress,XS,red,119,63
+36,Shirt,Dress,S,red,119,72
+37,Shirt,Dress,M,red,119,57
+38,Shirt,Dress,L,red,119,79
+39,Shirt,Dress,XL,red,119,47
+40,Shirt,Dress,XS,orange,119,58
+41,Shirt,Dress,S,orange,119,69
+42,Shirt,Dress,M,orange,119,53
+43,Shirt,Dress,L,orange,119,73
+44,Shirt,Dress,XL,orange,119,78
+45,Shirt,Dress,XS,yellow,119,69
+46,Shirt,Dress,S,yellow,119,56
+47,Shirt,Dress,M,yellow,119,61
+48,Shirt,Dress,L,yellow,119,56
+49,Shirt,Dress,XL,yellow,119,75
+50,Shirt,Dress,XS,green,119,51
+51,Shirt,Dress,S,green,119,60
+52,Shirt,Dress,M,green,119,65
+53,Shirt,Dress,L,green,119,52
+54,Shirt,Dress,XL,green,119,52
+55,Shirt,Dress,XS,blue,119,41
+56,Shirt,Dress,S,blue,119,46
+57,Shirt,Dress,M,blue,119,48
+58,Shirt,Dress,L,blue,119,61
+59,Shirt,Dress,XL,blue,119,66
+60,Shirt,Dress,XS,indigo,119,56
+61,Shirt,Dress,S,indigo,119,40
+62,Shirt,Dress,M,indigo,119,51
+63,Shirt,Dress,L,indigo,119,71
+64,Shirt,Dress,XL,indigo,119,75
+65,Shirt,Dress,XS,violet,119,63
+66,Shirt,Dress,S,violet,119,69
+67,Shirt,Dress,M,violet,119,41
+68,Shirt,Dress,L,violet,119,74
+69,Shirt,Dress,XL,violet,119,77
+70,Shirt,Flannel,XS,red,96,42
+71,Shirt,Flannel,S,red,96,59
+72,Shirt,Flannel,M,red,96,68
+73,Shirt,Flannel,L,red,96,77
+74,Shirt,Flannel,XL,red,96,72
+75,Shirt,Flannel,XS,orange,96,42
+76,Shirt,Flannel,S,orange,96,54
+77,Shirt,Flannel,M,orange,96,68
+78,Shirt,Flannel,L,orange,96,59
+79,Shirt,Flannel,XL,orange,96,50
+80,Shirt,Flannel,XS,yellow,96,41
+81,Shirt,Flannel,S,yellow,96,42
+82,Shirt,Flannel,M,yellow,96,59
+83,Shirt,Flannel,L,yellow,96,80
+84,Shirt,Flannel,XL,yellow,96,72
+85,Shirt,Flannel,XS,green,96,55
+86,Shirt,Flannel,S,green,96,57
+87,Shirt,Flannel,M,green,96,66
+88,Shirt,Flannel,L,green,96,72
+89,Shirt,Flannel,XL,green,96,77
+90,Shirt,Flannel,XS,blue,96,62
+91,Shirt,Flannel,S,blue,96,43
+92,Shirt,Flannel,M,blue,96,73
+93,Shirt,Flannel,L,blue,96,44
+94,Shirt,Flannel,XL,blue,96,61
+95,Shirt,Flannel,XS,indigo,96,46
+96,Shirt,Flannel,S,indigo,96,74
+97,Shirt,Flannel,M,indigo,96,69
+98,Shirt,Flannel,L,indigo,96,62
+99,Shirt,Flannel,XL,indigo,96,57
+100,Shirt,Flannel,XS,violet,96,72
+101,Shirt,Flannel,S,violet,96,70
+102,Shirt,Flannel,M,violet,96,71
+103,Shirt,Flannel,L,violet,96,76
+104,Shirt,Flannel,XL,violet,96,43
+105,Shirt,Denim,XS,red,115,52
+106,Shirt,Denim,S,red,115,57
+107,Shirt,Denim,M,red,115,49
+108,Shirt,Denim,L,red,115,52
+109,Shirt,Denim,XL,red,115,63
+110,Shirt,Denim,XS,orange,115,45
+111,Shirt,Denim,S,orange,115,69
+112,Shirt,Denim,M,orange,115,50
+113,Shirt,Denim,L,orange,115,45
+114,Shirt,Denim,XL,orange,115,67
+115,Shirt,Denim,XS,yellow,115,54
+116,Shirt,Denim,S,yellow,115,75
+117,Shirt,Denim,M,yellow,115,67
+118,Shirt,Denim,L,yellow,115,75
+119,Shirt,Denim,XL,yellow,115,74
+120,Shirt,Denim,XS,green,115,66
+121,Shirt,Denim,S,green,115,49
+122,Shirt,Denim,M,green,115,66
+123,Shirt,Denim,L,green,115,71
+124,Shirt,Denim,XL,green,115,52
+125,Shirt,Denim,XS,blue,115,76
+126,Shirt,Denim,S,blue,115,47
+127,Shirt,Denim,M,blue,115,58
+128,Shirt,Denim,L,blue,115,45
+129,Shirt,Denim,XL,blue,115,73
+130,Shirt,Denim,XS,indigo,115,79
+131,Shirt,Denim,S,indigo,115,69
+132,Shirt,Denim,M,indigo,115,56
+133,Shirt,Denim,L,indigo,115,58
+134,Shirt,Denim,XL,indigo,115,58
+135,Shirt,Denim,XS,violet,115,73
+136,Shirt,Denim,S,violet,115,54
+137,Shirt,Denim,M,violet,115,55
+138,Shirt,Denim,L,violet,115,78
+139,Shirt,Denim,XL,violet,115,73
+140,Shirt,Linen,XS,red,116,61
+141,Shirt,Linen,S,red,116,67
+142,Shirt,Linen,M,red,116,78
+143,Shirt,Linen,L,red,116,80
+144,Shirt,Linen,XL,red,116,47
+145,Shirt,Linen,XS,orange,116,70
+146,Shirt,Linen,S,orange,116,42
+147,Shirt,Linen,M,orange,116,42
+148,Shirt,Linen,L,orange,116,73
+149,Shirt,Linen,XL,orange,116,59
+150,Shirt,Linen,XS,yellow,116,55
+151,Shirt,Linen,S,yellow,116,60
+152,Shirt,Linen,M,yellow,116,59
+153,Shirt,Linen,L,yellow,116,72
+154,Shirt,Linen,XL,yellow,116,54
+155,Shirt,Linen,XS,green,116,49
+156,Shirt,Linen,S,green,116,58
+157,Shirt,Linen,M,green,116,42
+158,Shirt,Linen,L,green,116,72
+159,Shirt,Linen,XL,green,116,51
+160,Shirt,Linen,XS,blue,116,53
+161,Shirt,Linen,S,blue,116,77
+162,Shirt,Linen,M,blue,116,58
+163,Shirt,Linen,L,blue,116,70
+164,Shirt,Linen,XL,blue,116,47
+165,Shirt,Linen,XS,indigo,116,70
+166,Shirt,Linen,S,indigo,116,72
+167,Shirt,Linen,M,indigo,116,72
+168,Shirt,Linen,L,indigo,116,75
+169,Shirt,Linen,XL,indigo,116,66
+170,Shirt,Linen,XS,violet,116,56
+171,Shirt,Linen,S,violet,116,44
+172,Shirt,Linen,M,violet,116,44
+173,Shirt,Linen,L,violet,116,70
+174,Shirt,Linen,XL,violet,116,73
+175,Shirt,Camp Collared,XS,red,112,77
+176,Shirt,Camp Collared,S,red,112,67
+177,Shirt,Camp Collared,M,red,112,64
+178,Shirt,Camp Collared,L,red,112,52
+179,Shirt,Camp Collared,XL,red,112,79
+180,Shirt,Camp Collared,XS,orange,112,52
+181,Shirt,Camp Collared,S,orange,112,62
+182,Shirt,Camp Collared,M,orange,112,65
+183,Shirt,Camp Collared,L,orange,112,63
+184,Shirt,Camp Collared,XL,orange,112,48
+185,Shirt,Camp Collared,XS,yellow,112,55
+186,Shirt,Camp Collared,S,yellow,112,66
+187,Shirt,Camp Collared,M,yellow,112,49
+188,Shirt,Camp Collared,L,yellow,112,71
+189,Shirt,Camp Collared,XL,yellow,112,44
+190,Shirt,Camp Collared,XS,green,112,66
+191,Shirt,Camp Collared,S,green,112,60
+192,Shirt,Camp Collared,M,green,112,41
+193,Shirt,Camp Collared,L,green,112,80
+194,Shirt,Camp Collared,XL,green,112,61
+195,Shirt,Camp Collared,XS,blue,112,47
+196,Shirt,Camp Collared,S,blue,112,75
+197,Shirt,Camp Collared,M,blue,112,65
+198,Shirt,Camp Collared,L,blue,112,56
+199,Shirt,Camp Collared,XL,blue,112,51
+200,Shirt,Camp Collared,XS,indigo,112,64
+201,Shirt,Camp Collared,S,indigo,112,50
+202,Shirt,Camp Collared,M,indigo,112,52
+203,Shirt,Camp Collared,L,indigo,112,72
+204,Shirt,Camp Collared,XL,indigo,112,42
+205,Shirt,Camp Collared,XS,violet,112,72
+206,Shirt,Camp Collared,S,violet,112,80
+207,Shirt,Camp Collared,M,violet,112,41
+208,Shirt,Camp Collared,L,violet,112,42
+209,Shirt,Camp Collared,XL,violet,112,40
+210,Shirt,Chambray,XS,red,105,48
+211,Shirt,Chambray,S,red,105,72
+212,Shirt,Chambray,M,red,105,48
+213,Shirt,Chambray,L,red,105,44
+214,Shirt,Chambray,XL,red,105,42
+215,Shirt,Chambray,XS,orange,105,76
+216,Shirt,Chambray,S,orange,105,69
+217,Shirt,Chambray,M,orange,105,43
+218,Shirt,Chambray,L,orange,105,44
+219,Shirt,Chambray,XL,orange,105,57
+220,Shirt,Chambray,XS,yellow,105,57
+221,Shirt,Chambray,S,yellow,105,40
+222,Shirt,Chambray,M,yellow,105,62
+223,Shirt,Chambray,L,yellow,105,53
+224,Shirt,Chambray,XL,yellow,105,53
+225,Shirt,Chambray,XS,green,105,50
+226,Shirt,Chambray,S,green,105,63
+227,Shirt,Chambray,M,green,105,56
+228,Shirt,Chambray,L,green,105,56
+229,Shirt,Chambray,XL,green,105,58
+230,Shirt,Chambray,XS,blue,105,76
+231,Shirt,Chambray,S,blue,105,61
+232,Shirt,Chambray,M,blue,105,66
+233,Shirt,Chambray,L,blue,105,69
+234,Shirt,Chambray,XL,blue,105,43
+235,Shirt,Chambray,XS,indigo,105,75
+236,Shirt,Chambray,S,indigo,105,59
+237,Shirt,Chambray,M,indigo,105,62
+238,Shirt,Chambray,L,indigo,105,79
+239,Shirt,Chambray,XL,indigo,105,61
+240,Shirt,Chambray,XS,violet,105,47
+241,Shirt,Chambray,S,violet,105,52
+242,Shirt,Chambray,M,violet,105,72
+243,Shirt,Chambray,L,violet,105,53
+244,Shirt,Chambray,XL,violet,105,54
+245,Shirt,Polo,XS,red,117,40
+246,Shirt,Polo,S,red,117,60
+247,Shirt,Polo,M,red,117,70
+248,Shirt,Polo,L,red,117,72
+249,Shirt,Polo,XL,red,117,76
+250,Shirt,Polo,XS,orange,117,75
+251,Shirt,Polo,S,orange,117,78
+252,Shirt,Polo,M,orange,117,67
+253,Shirt,Polo,L,orange,117,63
+254,Shirt,Polo,XL,orange,117,43
+255,Shirt,Polo,XS,yellow,117,79
+256,Shirt,Polo,S,yellow,117,77
+257,Shirt,Polo,M,yellow,117,52
+258,Shirt,Polo,L,yellow,117,46
+259,Shirt,Polo,XL,yellow,117,46
+260,Shirt,Polo,XS,green,117,45
+261,Shirt,Polo,S,green,117,71
+262,Shirt,Polo,M,green,117,62
+263,Shirt,Polo,L,green,117,68
+264,Shirt,Polo,XL,green,117,61
+265,Shirt,Polo,XS,blue,117,56
+266,Shirt,Polo,S,blue,117,76
+267,Shirt,Polo,M,blue,117,49
+268,Shirt,Polo,L,blue,117,77
+269,Shirt,Polo,XL,blue,117,70
+270,Shirt,Polo,XS,indigo,117,47
+271,Shirt,Polo,S,indigo,117,50
+272,Shirt,Polo,M,indigo,117,62
+273,Shirt,Polo,L,indigo,117,60
+274,Shirt,Polo,XL,indigo,117,56
+275,Shirt,Polo,XS,violet,117,67
+276,Shirt,Polo,S,violet,117,43
+277,Shirt,Polo,M,violet,117,77
+278,Shirt,Polo,L,violet,117,76
+279,Shirt,Polo,XL,violet,117,79
+280,Shirt,Cuban Collar,XS,red,93,56
+281,Shirt,Cuban Collar,S,red,93,59
+282,Shirt,Cuban Collar,M,red,93,53
+283,Shirt,Cuban Collar,L,red,93,45
+284,Shirt,Cuban Collar,XL,red,93,65
+285,Shirt,Cuban Collar,XS,orange,93,62
+286,Shirt,Cuban Collar,S,orange,93,50
+287,Shirt,Cuban Collar,M,orange,93,49
+288,Shirt,Cuban Collar,L,orange,93,65
+289,Shirt,Cuban Collar,XL,orange,93,49
+290,Shirt,Cuban Collar,XS,yellow,93,78
+291,Shirt,Cuban Collar,S,yellow,93,41
+292,Shirt,Cuban Collar,M,yellow,93,49
+293,Shirt,Cuban Collar,L,yellow,93,77
+294,Shirt,Cuban Collar,XL,yellow,93,76
+295,Shirt,Cuban Collar,XS,green,93,63
+296,Shirt,Cuban Collar,S,green,93,58
+297,Shirt,Cuban Collar,M,green,93,45
+298,Shirt,Cuban Collar,L,green,93,58
+299,Shirt,Cuban Collar,XL,green,93,60
+300,Shirt,Cuban Collar,XS,blue,93,56
+301,Shirt,Cuban Collar,S,blue,93,62
+302,Shirt,Cuban Collar,M,blue,93,55
+303,Shirt,Cuban Collar,L,blue,93,65
+304,Shirt,Cuban Collar,XL,blue,93,73
+305,Shirt,Cuban Collar,XS,indigo,93,50
+306,Shirt,Cuban Collar,S,indigo,93,41
+307,Shirt,Cuban Collar,M,indigo,93,58
+308,Shirt,Cuban Collar,L,indigo,93,65
+309,Shirt,Cuban Collar,XL,indigo,93,53
+310,Shirt,Cuban Collar,XS,violet,93,49
+311,Shirt,Cuban Collar,S,violet,93,43
+312,Shirt,Cuban Collar,M,violet,93,67
+313,Shirt,Cuban Collar,L,violet,93,78
+314,Shirt,Cuban Collar,XL,violet,93,44
+315,Shirt,Mandarin Collar,XS,red,108,59
+316,Shirt,Mandarin Collar,S,red,108,48
+317,Shirt,Mandarin Collar,M,red,108,60
+318,Shirt,Mandarin Collar,L,red,108,54
+319,Shirt,Mandarin Collar,XL,red,108,64
+320,Shirt,Mandarin Collar,XS,orange,108,68
+321,Shirt,Mandarin Collar,S,orange,108,52
+322,Shirt,Mandarin Collar,M,orange,108,78
+323,Shirt,Mandarin Collar,L,orange,108,56
+324,Shirt,Mandarin Collar,XL,orange,108,59
+325,Shirt,Mandarin Collar,XS,yellow,108,45
+326,Shirt,Mandarin Collar,S,yellow,108,76
+327,Shirt,Mandarin Collar,M,yellow,108,58
+328,Shirt,Mandarin Collar,L,yellow,108,78
+329,Shirt,Mandarin Collar,XL,yellow,108,43
+330,Shirt,Mandarin Collar,XS,green,108,63
+331,Shirt,Mandarin Collar,S,green,108,74
+332,Shirt,Mandarin Collar,M,green,108,57
+333,Shirt,Mandarin Collar,L,green,108,67
+334,Shirt,Mandarin Collar,XL,green,108,79
+335,Shirt,Mandarin Collar,XS,blue,108,59
+336,Shirt,Mandarin Collar,S,blue,108,44
+337,Shirt,Mandarin Collar,M,blue,108,76
+338,Shirt,Mandarin Collar,L,blue,108,68
+339,Shirt,Mandarin Collar,XL,blue,108,71
+340,Shirt,Mandarin Collar,XS,indigo,108,80
+341,Shirt,Mandarin Collar,S,indigo,108,60
+342,Shirt,Mandarin Collar,M,indigo,108,51
+343,Shirt,Mandarin Collar,L,indigo,108,53
+344,Shirt,Mandarin Collar,XL,indigo,108,77
+345,Shirt,Mandarin Collar,XS,violet,108,52
+346,Shirt,Mandarin Collar,S,violet,108,73
+347,Shirt,Mandarin Collar,M,violet,108,76
+348,Shirt,Mandarin Collar,L,violet,108,54
+349,Shirt,Mandarin Collar,XL,violet,108,71
+350,Shirt,Henley,XS,red,92,62
+351,Shirt,Henley,S,red,92,60
+352,Shirt,Henley,M,red,92,52
+353,Shirt,Henley,L,red,92,62
+354,Shirt,Henley,XL,red,92,59
+355,Shirt,Henley,XS,orange,92,65
+356,Shirt,Henley,S,orange,92,46
+357,Shirt,Henley,M,orange,92,70
+358,Shirt,Henley,L,orange,92,77
+359,Shirt,Henley,XL,orange,92,52
+360,Shirt,Henley,XS,yellow,92,42
+361,Shirt,Henley,S,yellow,92,70
+362,Shirt,Henley,M,yellow,92,71
+363,Shirt,Henley,L,yellow,92,62
+364,Shirt,Henley,XL,yellow,92,55
+365,Shirt,Henley,XS,green,92,61
+366,Shirt,Henley,S,green,92,68
+367,Shirt,Henley,M,green,92,65
+368,Shirt,Henley,L,green,92,41
+369,Shirt,Henley,XL,green,92,64
+370,Shirt,Henley,XS,blue,92,61
+371,Shirt,Henley,S,blue,92,75
+372,Shirt,Henley,M,blue,92,42
+373,Shirt,Henley,L,blue,92,60
+374,Shirt,Henley,XL,blue,92,75
+375,Shirt,Henley,XS,indigo,92,58
+376,Shirt,Henley,S,indigo,92,45
+377,Shirt,Henley,M,indigo,92,70
+378,Shirt,Henley,L,indigo,92,44
+379,Shirt,Henley,XL,indigo,92,52
+380,Shirt,Henley,XS,violet,92,50
+381,Shirt,Henley,S,violet,92,43
+382,Shirt,Henley,M,violet,92,44
+383,Shirt,Henley,L,violet,92,51
+384,Shirt,Henley,XL,violet,92,77
+385,Shirt,Casual Slim Fit,XS,red,113,49
+386,Shirt,Casual Slim Fit,S,red,113,50
+387,Shirt,Casual Slim Fit,M,red,113,67
+388,Shirt,Casual Slim Fit,L,red,113,78
+389,Shirt,Casual Slim Fit,XL,red,113,47
+390,Shirt,Casual Slim Fit,XS,orange,113,43
+391,Shirt,Casual Slim Fit,S,orange,113,54
+392,Shirt,Casual Slim Fit,M,orange,113,47
+393,Shirt,Casual Slim Fit,L,orange,113,76
+394,Shirt,Casual Slim Fit,XL,orange,113,53
+395,Shirt,Casual Slim Fit,XS,yellow,113,63
+396,Shirt,Casual Slim Fit,S,yellow,113,45
+397,Shirt,Casual Slim Fit,M,yellow,113,76
+398,Shirt,Casual Slim Fit,L,yellow,113,63
+399,Shirt,Casual Slim Fit,XL,yellow,113,78
+400,Shirt,Casual Slim Fit,XS,green,113,69
+401,Shirt,Casual Slim Fit,S,green,113,72
+402,Shirt,Casual Slim Fit,M,green,113,67
+403,Shirt,Casual Slim Fit,L,green,113,54
+404,Shirt,Casual Slim Fit,XL,green,113,41
+405,Shirt,Casual Slim Fit,XS,blue,113,55
+406,Shirt,Casual Slim Fit,S,blue,113,75
+407,Shirt,Casual Slim Fit,M,blue,113,61
+408,Shirt,Casual Slim Fit,L,blue,113,75
+409,Shirt,Casual Slim Fit,XL,blue,113,68
+410,Shirt,Casual Slim Fit,XS,indigo,113,57
+411,Shirt,Casual Slim Fit,S,indigo,113,65
+412,Shirt,Casual Slim Fit,M,indigo,113,65
+413,Shirt,Casual Slim Fit,L,indigo,113,60
+414,Shirt,Casual Slim Fit,XL,indigo,113,40
+415,Shirt,Casual Slim Fit,XS,violet,113,55
+416,Shirt,Casual Slim Fit,S,violet,113,50
+417,Shirt,Casual Slim Fit,M,violet,113,46
+418,Shirt,Casual Slim Fit,L,violet,113,65
+419,Shirt,Casual Slim Fit,XL,violet,113,57
+420,Jacket,Denim,XS,red,92,60
+421,Jacket,Denim,S,red,92,69
+422,Jacket,Denim,M,red,92,43
+423,Jacket,Denim,L,red,92,63
+424,Jacket,Denim,XL,red,92,58
+425,Jacket,Denim,XS,orange,92,60
+426,Jacket,Denim,S,orange,92,51
+427,Jacket,Denim,M,orange,92,48
+428,Jacket,Denim,L,orange,92,73
+429,Jacket,Denim,XL,orange,92,79
+430,Jacket,Denim,XS,yellow,92,52
+431,Jacket,Denim,S,yellow,92,43
+432,Jacket,Denim,M,yellow,92,70
+433,Jacket,Denim,L,yellow,92,44
+434,Jacket,Denim,XL,yellow,92,56
+435,Jacket,Denim,XS,green,92,53
+436,Jacket,Denim,S,green,92,49
+437,Jacket,Denim,M,green,92,79
+438,Jacket,Denim,L,green,92,52
+439,Jacket,Denim,XL,green,92,59
+440,Jacket,Denim,XS,blue,92,49
+441,Jacket,Denim,S,blue,92,56
+442,Jacket,Denim,M,blue,92,61
+443,Jacket,Denim,L,blue,92,42
+444,Jacket,Denim,XL,blue,92,80
+445,Jacket,Denim,XS,indigo,92,75
+446,Jacket,Denim,S,indigo,92,66
+447,Jacket,Denim,M,indigo,92,52
+448,Jacket,Denim,L,indigo,92,67
+449,Jacket,Denim,XL,indigo,92,51
+450,Jacket,Denim,XS,violet,92,65
+451,Jacket,Denim,S,violet,92,73
+452,Jacket,Denim,M,violet,92,43
+453,Jacket,Denim,L,violet,92,50
+454,Jacket,Denim,XL,violet,92,63
+455,Jacket,Puffer,XS,red,110,67
+456,Jacket,Puffer,S,red,110,62
+457,Jacket,Puffer,M,red,110,62
+458,Jacket,Puffer,L,red,110,44
+459,Jacket,Puffer,XL,red,110,41
+460,Jacket,Puffer,XS,orange,110,47
+461,Jacket,Puffer,S,orange,110,69
+462,Jacket,Puffer,M,orange,110,61
+463,Jacket,Puffer,L,orange,110,66
+464,Jacket,Puffer,XL,orange,110,66
+465,Jacket,Puffer,XS,yellow,110,55
+466,Jacket,Puffer,S,yellow,110,48
+467,Jacket,Puffer,M,yellow,110,44
+468,Jacket,Puffer,L,yellow,110,46
+469,Jacket,Puffer,XL,yellow,110,65
+470,Jacket,Puffer,XS,green,110,41
+471,Jacket,Puffer,S,green,110,54
+472,Jacket,Puffer,M,green,110,72
+473,Jacket,Puffer,L,green,110,43
+474,Jacket,Puffer,XL,green,110,42
+475,Jacket,Puffer,XS,blue,110,57
+476,Jacket,Puffer,S,blue,110,76
+477,Jacket,Puffer,M,blue,110,60
+478,Jacket,Puffer,L,blue,110,48
+479,Jacket,Puffer,XL,blue,110,80
+480,Jacket,Puffer,XS,indigo,110,46
+481,Jacket,Puffer,S,indigo,110,62
+482,Jacket,Puffer,M,indigo,110,49
+483,Jacket,Puffer,L,indigo,110,61
+484,Jacket,Puffer,XL,indigo,110,60
+485,Jacket,Puffer,XS,violet,110,74
+486,Jacket,Puffer,S,violet,110,46
+487,Jacket,Puffer,M,violet,110,43
+488,Jacket,Puffer,L,violet,110,49
+489,Jacket,Puffer,XL,violet,110,40
+490,Jacket,Windbreaker,XS,red,109,79
+491,Jacket,Windbreaker,S,red,109,54
+492,Jacket,Windbreaker,M,red,109,47
+493,Jacket,Windbreaker,L,red,109,40
+494,Jacket,Windbreaker,XL,red,109,48
+495,Jacket,Windbreaker,XS,orange,109,70
+496,Jacket,Windbreaker,S,orange,109,55
+497,Jacket,Windbreaker,M,orange,109,45
+498,Jacket,Windbreaker,L,orange,109,68
+499,Jacket,Windbreaker,XL,orange,109,67
+500,Jacket,Windbreaker,XS,yellow,109,50
+501,Jacket,Windbreaker,S,yellow,109,66
+502,Jacket,Windbreaker,M,yellow,109,52
+503,Jacket,Windbreaker,L,yellow,109,70
+504,Jacket,Windbreaker,XL,yellow,109,58
+505,Jacket,Windbreaker,XS,green,109,57
+506,Jacket,Windbreaker,S,green,109,65
+507,Jacket,Windbreaker,M,green,109,63
+508,Jacket,Windbreaker,L,green,109,62
+509,Jacket,Windbreaker,XL,green,109,71
+510,Jacket,Windbreaker,XS,blue,109,59
+511,Jacket,Windbreaker,S,blue,109,41
+512,Jacket,Windbreaker,M,blue,109,70
+513,Jacket,Windbreaker,L,blue,109,41
+514,Jacket,Windbreaker,XL,blue,109,59
+515,Jacket,Windbreaker,XS,indigo,109,79
+516,Jacket,Windbreaker,S,indigo,109,62
+517,Jacket,Windbreaker,M,indigo,109,56
+518,Jacket,Windbreaker,L,indigo,109,67
+519,Jacket,Windbreaker,XL,indigo,109,60
+520,Jacket,Windbreaker,XS,violet,109,68
+521,Jacket,Windbreaker,S,violet,109,46
+522,Jacket,Windbreaker,M,violet,109,64
+523,Jacket,Windbreaker,L,violet,109,72
+524,Jacket,Windbreaker,XL,violet,109,54
+525,Jacket,Leather,XS,red,113,67
+526,Jacket,Leather,S,red,113,80
+527,Jacket,Leather,M,red,113,54
+528,Jacket,Leather,L,red,113,76
+529,Jacket,Leather,XL,red,113,52
+530,Jacket,Leather,XS,orange,113,63
+531,Jacket,Leather,S,orange,113,79
+532,Jacket,Leather,M,orange,113,80
+533,Jacket,Leather,L,orange,113,78
+534,Jacket,Leather,XL,orange,113,64
+535,Jacket,Leather,XS,yellow,113,73
+536,Jacket,Leather,S,yellow,113,41
+537,Jacket,Leather,M,yellow,113,77
+538,Jacket,Leather,L,yellow,113,45
+539,Jacket,Leather,XL,yellow,113,67
+540,Jacket,Leather,XS,green,113,57
+541,Jacket,Leather,S,green,113,77
+542,Jacket,Leather,M,green,113,45
+543,Jacket,Leather,L,green,113,71
+544,Jacket,Leather,XL,green,113,58
+545,Jacket,Leather,XS,blue,113,77
+546,Jacket,Leather,S,blue,113,75
+547,Jacket,Leather,M,blue,113,60
+548,Jacket,Leather,L,blue,113,62
+549,Jacket,Leather,XL,blue,113,67
+550,Jacket,Leather,XS,indigo,113,78
+551,Jacket,Leather,S,indigo,113,40
+552,Jacket,Leather,M,indigo,113,71
+553,Jacket,Leather,L,indigo,113,79
+554,Jacket,Leather,XL,indigo,113,52
+555,Jacket,Leather,XS,violet,113,70
+556,Jacket,Leather,S,violet,113,65
+557,Jacket,Leather,M,violet,113,40
+558,Jacket,Leather,L,violet,113,78
+559,Jacket,Leather,XL,violet,113,58
+560,Jacket,Bomber,XS,red,90,76
+561,Jacket,Bomber,S,red,90,74
+562,Jacket,Bomber,M,red,90,79
+563,Jacket,Bomber,L,red,90,50
+564,Jacket,Bomber,XL,red,90,62
+565,Jacket,Bomber,XS,orange,90,80
+566,Jacket,Bomber,S,orange,90,49
+567,Jacket,Bomber,M,orange,90,69
+568,Jacket,Bomber,L,orange,90,71
+569,Jacket,Bomber,XL,orange,90,69
+570,Jacket,Bomber,XS,yellow,90,57
+571,Jacket,Bomber,S,yellow,90,64
+572,Jacket,Bomber,M,yellow,90,71
+573,Jacket,Bomber,L,yellow,90,54
+574,Jacket,Bomber,XL,yellow,90,50
+575,Jacket,Bomber,XS,green,90,48
+576,Jacket,Bomber,S,green,90,54
+577,Jacket,Bomber,M,green,90,61
+578,Jacket,Bomber,L,green,90,78
+579,Jacket,Bomber,XL,green,90,79
+580,Jacket,Bomber,XS,blue,90,44
+581,Jacket,Bomber,S,blue,90,50
+582,Jacket,Bomber,M,blue,90,44
+583,Jacket,Bomber,L,blue,90,64
+584,Jacket,Bomber,XL,blue,90,47
+585,Jacket,Bomber,XS,indigo,90,59
+586,Jacket,Bomber,S,indigo,90,41
+587,Jacket,Bomber,M,indigo,90,52
+588,Jacket,Bomber,L,indigo,90,51
+589,Jacket,Bomber,XL,indigo,90,50
+590,Jacket,Bomber,XS,violet,90,75
+591,Jacket,Bomber,S,violet,90,45
+592,Jacket,Bomber,M,violet,90,45
+593,Jacket,Bomber,L,violet,90,68
+594,Jacket,Bomber,XL,violet,90,53
+595,Jacket,Cardigan,XS,red,118,51
+596,Jacket,Cardigan,S,red,118,47
+597,Jacket,Cardigan,M,red,118,70
+598,Jacket,Cardigan,L,red,118,41
+599,Jacket,Cardigan,XL,red,118,54
+600,Jacket,Cardigan,XS,orange,118,46
+601,Jacket,Cardigan,S,orange,118,69
+602,Jacket,Cardigan,M,orange,118,54
+603,Jacket,Cardigan,L,orange,118,79
+604,Jacket,Cardigan,XL,orange,118,75
+605,Jacket,Cardigan,XS,yellow,118,46
+606,Jacket,Cardigan,S,yellow,118,79
+607,Jacket,Cardigan,M,yellow,118,64
+608,Jacket,Cardigan,L,yellow,118,50
+609,Jacket,Cardigan,XL,yellow,118,42
+610,Jacket,Cardigan,XS,green,118,40
+611,Jacket,Cardigan,S,green,118,62
+612,Jacket,Cardigan,M,green,118,46
+613,Jacket,Cardigan,L,green,118,63
+614,Jacket,Cardigan,XL,green,118,64
+615,Jacket,Cardigan,XS,blue,118,54
+616,Jacket,Cardigan,S,blue,118,53
+617,Jacket,Cardigan,M,blue,118,57
+618,Jacket,Cardigan,L,blue,118,68
+619,Jacket,Cardigan,XL,blue,118,57
+620,Jacket,Cardigan,XS,indigo,118,70
+621,Jacket,Cardigan,S,indigo,118,61
+622,Jacket,Cardigan,M,indigo,118,58
+623,Jacket,Cardigan,L,indigo,118,40
+624,Jacket,Cardigan,XL,indigo,118,78
+625,Jacket,Cardigan,XS,violet,118,40
+626,Jacket,Cardigan,S,violet,118,49
+627,Jacket,Cardigan,M,violet,118,75
+628,Jacket,Cardigan,L,violet,118,66
+629,Jacket,Cardigan,XL,violet,118,64
+630,Jacket,Coach,XS,red,115,71
+631,Jacket,Coach,S,red,115,76
+632,Jacket,Coach,M,red,115,76
+633,Jacket,Coach,L,red,115,80
+634,Jacket,Coach,XL,red,115,46
+635,Jacket,Coach,XS,orange,115,42
+636,Jacket,Coach,S,orange,115,55
+637,Jacket,Coach,M,orange,115,72
+638,Jacket,Coach,L,orange,115,51
+639,Jacket,Coach,XL,orange,115,46
+640,Jacket,Coach,XS,yellow,115,52
+641,Jacket,Coach,S,yellow,115,67
+642,Jacket,Coach,M,yellow,115,48
+643,Jacket,Coach,L,yellow,115,53
+644,Jacket,Coach,XL,yellow,115,68
+645,Jacket,Coach,XS,green,115,78
+646,Jacket,Coach,S,green,115,60
+647,Jacket,Coach,M,green,115,63
+648,Jacket,Coach,L,green,115,57
+649,Jacket,Coach,XL,green,115,48
+650,Jacket,Coach,XS,blue,115,51
+651,Jacket,Coach,S,blue,115,47
+652,Jacket,Coach,M,blue,115,54
+653,Jacket,Coach,L,blue,115,80
+654,Jacket,Coach,XL,blue,115,46
+655,Jacket,Coach,XS,indigo,115,42
+656,Jacket,Coach,S,indigo,115,78
+657,Jacket,Coach,M,indigo,115,64
+658,Jacket,Coach,L,indigo,115,74
+659,Jacket,Coach,XL,indigo,115,67
+660,Jacket,Coach,XS,violet,115,58
+661,Jacket,Coach,S,violet,115,74
+662,Jacket,Coach,M,violet,115,74
+663,Jacket,Coach,L,violet,115,80
+664,Jacket,Coach,XL,violet,115,60
+665,Jacket,Parka,XS,red,119,65
+666,Jacket,Parka,S,red,119,66
+667,Jacket,Parka,M,red,119,56
+668,Jacket,Parka,L,red,119,73
+669,Jacket,Parka,XL,red,119,64
+670,Jacket,Parka,XS,orange,119,53
+671,Jacket,Parka,S,orange,119,72
+672,Jacket,Parka,M,orange,119,51
+673,Jacket,Parka,L,orange,119,77
+674,Jacket,Parka,XL,orange,119,68
+675,Jacket,Parka,XS,yellow,119,63
+676,Jacket,Parka,S,yellow,119,80
+677,Jacket,Parka,M,yellow,119,46
+678,Jacket,Parka,L,yellow,119,72
+679,Jacket,Parka,XL,yellow,119,44
+680,Jacket,Parka,XS,green,119,75
+681,Jacket,Parka,S,green,119,62
+682,Jacket,Parka,M,green,119,71
+683,Jacket,Parka,L,green,119,55
+684,Jacket,Parka,XL,green,119,55
+685,Jacket,Parka,XS,blue,119,67
+686,Jacket,Parka,S,blue,119,72
+687,Jacket,Parka,M,blue,119,54
+688,Jacket,Parka,L,blue,119,61
+689,Jacket,Parka,XL,blue,119,47
+690,Jacket,Parka,XS,indigo,119,57
+691,Jacket,Parka,S,indigo,119,53
+692,Jacket,Parka,M,indigo,119,66
+693,Jacket,Parka,L,indigo,119,44
+694,Jacket,Parka,XL,indigo,119,78
+695,Jacket,Parka,XS,violet,119,59
+696,Jacket,Parka,S,violet,119,67
+697,Jacket,Parka,M,violet,119,75
+698,Jacket,Parka,L,violet,119,53
+699,Jacket,Parka,XL,violet,119,80
+700,Jacket,Trench Coat,XS,red,112,78
+701,Jacket,Trench Coat,S,red,112,54
+702,Jacket,Trench Coat,M,red,112,57
+703,Jacket,Trench Coat,L,red,112,70
+704,Jacket,Trench Coat,XL,red,112,40
+705,Jacket,Trench Coat,XS,orange,112,69
+706,Jacket,Trench Coat,S,orange,112,41
+707,Jacket,Trench Coat,M,orange,112,43
+708,Jacket,Trench Coat,L,orange,112,70
+709,Jacket,Trench Coat,XL,orange,112,71
+710,Jacket,Trench Coat,XS,yellow,112,78
+711,Jacket,Trench Coat,S,yellow,112,59
+712,Jacket,Trench Coat,M,yellow,112,54
+713,Jacket,Trench Coat,L,yellow,112,77
+714,Jacket,Trench Coat,XL,yellow,112,79
+715,Jacket,Trench Coat,XS,green,112,62
+716,Jacket,Trench Coat,S,green,112,53
+717,Jacket,Trench Coat,M,green,112,67
+718,Jacket,Trench Coat,L,green,112,73
+719,Jacket,Trench Coat,XL,green,112,53
+720,Jacket,Trench Coat,XS,blue,112,59
+721,Jacket,Trench Coat,S,blue,112,64
+722,Jacket,Trench Coat,M,blue,112,46
+723,Jacket,Trench Coat,L,blue,112,50
+724,Jacket,Trench Coat,XL,blue,112,69
+725,Jacket,Trench Coat,XS,indigo,112,56
+726,Jacket,Trench Coat,S,indigo,112,41
+727,Jacket,Trench Coat,M,indigo,112,42
+728,Jacket,Trench Coat,L,indigo,112,71
+729,Jacket,Trench Coat,XL,indigo,112,64
+730,Jacket,Trench Coat,XS,violet,112,64
+731,Jacket,Trench Coat,S,violet,112,69
+732,Jacket,Trench Coat,M,violet,112,61
+733,Jacket,Trench Coat,L,violet,112,76
+734,Jacket,Trench Coat,XL,violet,112,52
+735,Jacket,Peacoat,XS,red,102,66
+736,Jacket,Peacoat,S,red,102,67
+737,Jacket,Peacoat,M,red,102,59
+738,Jacket,Peacoat,L,red,102,42
+739,Jacket,Peacoat,XL,red,102,58
+740,Jacket,Peacoat,XS,orange,102,78
+741,Jacket,Peacoat,S,orange,102,73
+742,Jacket,Peacoat,M,orange,102,47
+743,Jacket,Peacoat,L,orange,102,45
+744,Jacket,Peacoat,XL,orange,102,69
+745,Jacket,Peacoat,XS,yellow,102,69
+746,Jacket,Peacoat,S,yellow,102,49
+747,Jacket,Peacoat,M,yellow,102,78
+748,Jacket,Peacoat,L,yellow,102,63
+749,Jacket,Peacoat,XL,yellow,102,53
+750,Jacket,Peacoat,XS,green,102,61
+751,Jacket,Peacoat,S,green,102,41
+752,Jacket,Peacoat,M,green,102,49
+753,Jacket,Peacoat,L,green,102,73
+754,Jacket,Peacoat,XL,green,102,68
+755,Jacket,Peacoat,XS,blue,102,48
+756,Jacket,Peacoat,S,blue,102,50
+757,Jacket,Peacoat,M,blue,102,71
+758,Jacket,Peacoat,L,blue,102,64
+759,Jacket,Peacoat,XL,blue,102,77
+760,Jacket,Peacoat,XS,indigo,102,45
+761,Jacket,Peacoat,S,indigo,102,49
+762,Jacket,Peacoat,M,indigo,102,52
+763,Jacket,Peacoat,L,indigo,102,45
+764,Jacket,Peacoat,XL,indigo,102,47
+765,Jacket,Peacoat,XS,violet,102,54
+766,Jacket,Peacoat,S,violet,102,73
+767,Jacket,Peacoat,M,violet,102,77
+768,Jacket,Peacoat,L,violet,102,65
+769,Jacket,Peacoat,XL,violet,102,42
+770,Jacket,Pullover,XS,red,114,54
+771,Jacket,Pullover,S,red,114,46
+772,Jacket,Pullover,M,red,114,55
+773,Jacket,Pullover,L,red,114,69
+774,Jacket,Pullover,XL,red,114,65
+775,Jacket,Pullover,XS,orange,114,79
+776,Jacket,Pullover,S,orange,114,77
+777,Jacket,Pullover,M,orange,114,60
+778,Jacket,Pullover,L,orange,114,56
+779,Jacket,Pullover,XL,orange,114,69
+780,Jacket,Pullover,XS,yellow,114,65
+781,Jacket,Pullover,S,yellow,114,42
+782,Jacket,Pullover,M,yellow,114,49
+783,Jacket,Pullover,L,yellow,114,43
+784,Jacket,Pullover,XL,yellow,114,67
+785,Jacket,Pullover,XS,green,114,70
+786,Jacket,Pullover,S,green,114,69
+787,Jacket,Pullover,M,green,114,47
+788,Jacket,Pullover,L,green,114,72
+789,Jacket,Pullover,XL,green,114,65
+790,Jacket,Pullover,XS,blue,114,61
+791,Jacket,Pullover,S,blue,114,73
+792,Jacket,Pullover,M,blue,114,44
+793,Jacket,Pullover,L,blue,114,66
+794,Jacket,Pullover,XL,blue,114,74
+795,Jacket,Pullover,XS,indigo,114,78
+796,Jacket,Pullover,S,indigo,114,44
+797,Jacket,Pullover,M,indigo,114,72
+798,Jacket,Pullover,L,indigo,114,50
+799,Jacket,Pullover,XL,indigo,114,43
+800,Jacket,Pullover,XS,violet,114,61
+801,Jacket,Pullover,S,violet,114,74
+802,Jacket,Pullover,M,violet,114,78
+803,Jacket,Pullover,L,violet,114,78
+804,Jacket,Pullover,XL,violet,114,69
+805,Jacket,Shearling,XS,red,95,74
+806,Jacket,Shearling,S,red,95,75
+807,Jacket,Shearling,M,red,95,49
+808,Jacket,Shearling,L,red,95,40
+809,Jacket,Shearling,XL,red,95,42
+810,Jacket,Shearling,XS,orange,95,54
+811,Jacket,Shearling,S,orange,95,53
+812,Jacket,Shearling,M,orange,95,45
+813,Jacket,Shearling,L,orange,95,58
+814,Jacket,Shearling,XL,orange,95,60
+815,Jacket,Shearling,XS,yellow,95,66
+816,Jacket,Shearling,S,yellow,95,48
+817,Jacket,Shearling,M,yellow,95,60
+818,Jacket,Shearling,L,yellow,95,58
+819,Jacket,Shearling,XL,yellow,95,63
+820,Jacket,Shearling,XS,green,95,74
+821,Jacket,Shearling,S,green,95,66
+822,Jacket,Shearling,M,green,95,59
+823,Jacket,Shearling,L,green,95,66
+824,Jacket,Shearling,XL,green,95,51
+825,Jacket,Shearling,XS,blue,95,62
+826,Jacket,Shearling,S,blue,95,72
+827,Jacket,Shearling,M,blue,95,73
+828,Jacket,Shearling,L,blue,95,64
+829,Jacket,Shearling,XL,blue,95,79
+830,Jacket,Shearling,XS,indigo,95,68
+831,Jacket,Shearling,S,indigo,95,45
+832,Jacket,Shearling,M,indigo,95,74
+833,Jacket,Shearling,L,indigo,95,66
+834,Jacket,Shearling,XL,indigo,95,76
+835,Jacket,Shearling,XS,violet,95,75
+836,Jacket,Shearling,S,violet,95,49
+837,Jacket,Shearling,M,violet,95,74
+838,Jacket,Shearling,L,violet,95,61
+839,Jacket,Shearling,XL,violet,95,70
+840,Trousers,Chinos,XS,red,100,69
+841,Trousers,Chinos,S,red,100,62
+842,Trousers,Chinos,M,red,100,54
+843,Trousers,Chinos,L,red,100,44
+844,Trousers,Chinos,XL,red,100,71
+845,Trousers,Chinos,XS,orange,100,53
+846,Trousers,Chinos,S,orange,100,58
+847,Trousers,Chinos,M,orange,100,73
+848,Trousers,Chinos,L,orange,100,60
+849,Trousers,Chinos,XL,orange,100,48
+850,Trousers,Chinos,XS,yellow,100,41
+851,Trousers,Chinos,S,yellow,100,40
+852,Trousers,Chinos,M,yellow,100,58
+853,Trousers,Chinos,L,yellow,100,65
+854,Trousers,Chinos,XL,yellow,100,59
+855,Trousers,Chinos,XS,green,100,75
+856,Trousers,Chinos,S,green,100,61
+857,Trousers,Chinos,M,green,100,49
+858,Trousers,Chinos,L,green,100,77
+859,Trousers,Chinos,XL,green,100,50
+860,Trousers,Chinos,XS,blue,100,69
+861,Trousers,Chinos,S,blue,100,51
+862,Trousers,Chinos,M,blue,100,41
+863,Trousers,Chinos,L,blue,100,46
+864,Trousers,Chinos,XL,blue,100,48
+865,Trousers,Chinos,XS,indigo,100,61
+866,Trousers,Chinos,S,indigo,100,67
+867,Trousers,Chinos,M,indigo,100,64
+868,Trousers,Chinos,L,indigo,100,80
+869,Trousers,Chinos,XL,indigo,100,78
+870,Trousers,Chinos,XS,violet,100,72
+871,Trousers,Chinos,S,violet,100,64
+872,Trousers,Chinos,M,violet,100,54
+873,Trousers,Chinos,L,violet,100,62
+874,Trousers,Chinos,XL,violet,100,77
+875,Trousers,Cords,XS,red,113,63
+876,Trousers,Cords,S,red,113,67
+877,Trousers,Cords,M,red,113,68
+878,Trousers,Cords,L,red,113,53
+879,Trousers,Cords,XL,red,113,80
+880,Trousers,Cords,XS,orange,113,70
+881,Trousers,Cords,S,orange,113,59
+882,Trousers,Cords,M,orange,113,53
+883,Trousers,Cords,L,orange,113,74
+884,Trousers,Cords,XL,orange,113,72
+885,Trousers,Cords,XS,yellow,113,69
+886,Trousers,Cords,S,yellow,113,68
+887,Trousers,Cords,M,yellow,113,58
+888,Trousers,Cords,L,yellow,113,62
+889,Trousers,Cords,XL,yellow,113,65
+890,Trousers,Cords,XS,green,113,50
+891,Trousers,Cords,S,green,113,78
+892,Trousers,Cords,M,green,113,76
+893,Trousers,Cords,L,green,113,62
+894,Trousers,Cords,XL,green,113,49
+895,Trousers,Cords,XS,blue,113,60
+896,Trousers,Cords,S,blue,113,59
+897,Trousers,Cords,M,blue,113,47
+898,Trousers,Cords,L,blue,113,77
+899,Trousers,Cords,XL,blue,113,65
+900,Trousers,Cords,XS,indigo,113,47
+901,Trousers,Cords,S,indigo,113,60
+902,Trousers,Cords,M,indigo,113,52
+903,Trousers,Cords,L,indigo,113,62
+904,Trousers,Cords,XL,indigo,113,70
+905,Trousers,Cords,XS,violet,113,76
+906,Trousers,Cords,S,violet,113,65
+907,Trousers,Cords,M,violet,113,77
+908,Trousers,Cords,L,violet,113,74
+909,Trousers,Cords,XL,violet,113,73
+910,Trousers,Drawstring,XS,red,104,57
+911,Trousers,Drawstring,S,red,104,64
+912,Trousers,Drawstring,M,red,104,70
+913,Trousers,Drawstring,L,red,104,73
+914,Trousers,Drawstring,XL,red,104,77
+915,Trousers,Drawstring,XS,orange,104,41
+916,Trousers,Drawstring,S,orange,104,58
+917,Trousers,Drawstring,M,orange,104,76
+918,Trousers,Drawstring,L,orange,104,54
+919,Trousers,Drawstring,XL,orange,104,68
+920,Trousers,Drawstring,XS,yellow,104,41
+921,Trousers,Drawstring,S,yellow,104,74
+922,Trousers,Drawstring,M,yellow,104,55
+923,Trousers,Drawstring,L,yellow,104,68
+924,Trousers,Drawstring,XL,yellow,104,48
+925,Trousers,Drawstring,XS,green,104,57
+926,Trousers,Drawstring,S,green,104,73
+927,Trousers,Drawstring,M,green,104,52
+928,Trousers,Drawstring,L,green,104,43
+929,Trousers,Drawstring,XL,green,104,49
+930,Trousers,Drawstring,XS,blue,104,45
+931,Trousers,Drawstring,S,blue,104,48
+932,Trousers,Drawstring,M,blue,104,41
+933,Trousers,Drawstring,L,blue,104,50
+934,Trousers,Drawstring,XL,blue,104,60
+935,Trousers,Drawstring,XS,indigo,104,61
+936,Trousers,Drawstring,S,indigo,104,46
+937,Trousers,Drawstring,M,indigo,104,58
+938,Trousers,Drawstring,L,indigo,104,77
+939,Trousers,Drawstring,XL,indigo,104,41
+940,Trousers,Drawstring,XS,violet,104,62
+941,Trousers,Drawstring,S,violet,104,40
+942,Trousers,Drawstring,M,violet,104,73
+943,Trousers,Drawstring,L,violet,104,62
+944,Trousers,Drawstring,XL,violet,104,80
+945,Trousers,Slim-Fit,XS,red,119,72
+946,Trousers,Slim-Fit,S,red,119,71
+947,Trousers,Slim-Fit,M,red,119,67
+948,Trousers,Slim-Fit,L,red,119,80
+949,Trousers,Slim-Fit,XL,red,119,67
+950,Trousers,Slim-Fit,XS,orange,119,69
+951,Trousers,Slim-Fit,S,orange,119,55
+952,Trousers,Slim-Fit,M,orange,119,44
+953,Trousers,Slim-Fit,L,orange,119,66
+954,Trousers,Slim-Fit,XL,orange,119,78
+955,Trousers,Slim-Fit,XS,yellow,119,59
+956,Trousers,Slim-Fit,S,yellow,119,54
+957,Trousers,Slim-Fit,M,yellow,119,55
+958,Trousers,Slim-Fit,L,yellow,119,64
+959,Trousers,Slim-Fit,XL,yellow,119,78
+960,Trousers,Slim-Fit,XS,green,119,74
+961,Trousers,Slim-Fit,S,green,119,70
+962,Trousers,Slim-Fit,M,green,119,78
+963,Trousers,Slim-Fit,L,green,119,43
+964,Trousers,Slim-Fit,XL,green,119,67
+965,Trousers,Slim-Fit,XS,blue,119,55
+966,Trousers,Slim-Fit,S,blue,119,49
+967,Trousers,Slim-Fit,M,blue,119,75
+968,Trousers,Slim-Fit,L,blue,119,49
+969,Trousers,Slim-Fit,XL,blue,119,47
+970,Trousers,Slim-Fit,XS,indigo,119,74
+971,Trousers,Slim-Fit,S,indigo,119,41
+972,Trousers,Slim-Fit,M,indigo,119,67
+973,Trousers,Slim-Fit,L,indigo,119,48
+974,Trousers,Slim-Fit,XL,indigo,119,66
+975,Trousers,Slim-Fit,XS,violet,119,70
+976,Trousers,Slim-Fit,S,violet,119,46
+977,Trousers,Slim-Fit,M,violet,119,51
+978,Trousers,Slim-Fit,L,violet,119,58
+979,Trousers,Slim-Fit,XL,violet,119,48
+980,Trousers,Wool,XS,red,111,44
+981,Trousers,Wool,S,red,111,65
+982,Trousers,Wool,M,red,111,58
+983,Trousers,Wool,L,red,111,74
+984,Trousers,Wool,XL,red,111,58
+985,Trousers,Wool,XS,orange,111,74
+986,Trousers,Wool,S,orange,111,59
+987,Trousers,Wool,M,orange,111,75
+988,Trousers,Wool,L,orange,111,56
+989,Trousers,Wool,XL,orange,111,56
+990,Trousers,Wool,XS,yellow,111,67
+991,Trousers,Wool,S,yellow,111,69
+992,Trousers,Wool,M,yellow,111,43
+993,Trousers,Wool,L,yellow,111,46
+994,Trousers,Wool,XL,yellow,111,72
+995,Trousers,Wool,XS,green,111,73
+996,Trousers,Wool,S,green,111,43
+997,Trousers,Wool,M,green,111,41
+998,Trousers,Wool,L,green,111,42
+999,Trousers,Wool,XL,green,111,48
+1000,Trousers,Wool,XS,blue,111,58
+1001,Trousers,Wool,S,blue,111,55
+1002,Trousers,Wool,M,blue,111,52
+1003,Trousers,Wool,L,blue,111,79
+1004,Trousers,Wool,XL,blue,111,41
+1005,Trousers,Wool,XS,indigo,111,43
+1006,Trousers,Wool,S,indigo,111,45
+1007,Trousers,Wool,M,indigo,111,56
+1008,Trousers,Wool,L,indigo,111,41
+1009,Trousers,Wool,XL,indigo,111,51
+1010,Trousers,Wool,XS,violet,111,80
+1011,Trousers,Wool,S,violet,111,59
+1012,Trousers,Wool,M,violet,111,51
+1013,Trousers,Wool,L,violet,111,61
+1014,Trousers,Wool,XL,violet,111,40
+1015,Trousers,Relaxed Leg,XS,red,95,52
+1016,Trousers,Relaxed Leg,S,red,95,70
+1017,Trousers,Relaxed Leg,M,red,95,56
+1018,Trousers,Relaxed Leg,L,red,95,63
+1019,Trousers,Relaxed Leg,XL,red,95,50
+1020,Trousers,Relaxed Leg,XS,orange,95,64
+1021,Trousers,Relaxed Leg,S,orange,95,47
+1022,Trousers,Relaxed Leg,M,orange,95,74
+1023,Trousers,Relaxed Leg,L,orange,95,78
+1024,Trousers,Relaxed Leg,XL,orange,95,80
+1025,Trousers,Relaxed Leg,XS,yellow,95,44
+1026,Trousers,Relaxed Leg,S,yellow,95,43
+1027,Trousers,Relaxed Leg,M,yellow,95,68
+1028,Trousers,Relaxed Leg,L,yellow,95,65
+1029,Trousers,Relaxed Leg,XL,yellow,95,54
+1030,Trousers,Relaxed Leg,XS,green,95,80
+1031,Trousers,Relaxed Leg,S,green,95,51
+1032,Trousers,Relaxed Leg,M,green,95,43
+1033,Trousers,Relaxed Leg,L,green,95,62
+1034,Trousers,Relaxed Leg,XL,green,95,64
+1035,Trousers,Relaxed Leg,XS,blue,95,54
+1036,Trousers,Relaxed Leg,S,blue,95,57
+1037,Trousers,Relaxed Leg,M,blue,95,72
+1038,Trousers,Relaxed Leg,L,blue,95,61
+1039,Trousers,Relaxed Leg,XL,blue,95,40
+1040,Trousers,Relaxed Leg,XS,indigo,95,60
+1041,Trousers,Relaxed Leg,S,indigo,95,40
+1042,Trousers,Relaxed Leg,M,indigo,95,45
+1043,Trousers,Relaxed Leg,L,indigo,95,48
+1044,Trousers,Relaxed Leg,XL,indigo,95,58
+1045,Trousers,Relaxed Leg,XS,violet,95,49
+1046,Trousers,Relaxed Leg,S,violet,95,75
+1047,Trousers,Relaxed Leg,M,violet,95,46
+1048,Trousers,Relaxed Leg,L,violet,95,47
+1049,Trousers,Relaxed Leg,XL,violet,95,42
+1050,Trousers,Joggers,XS,red,94,65
+1051,Trousers,Joggers,S,red,94,71
+1052,Trousers,Joggers,M,red,94,43
+1053,Trousers,Joggers,L,red,94,63
+1054,Trousers,Joggers,XL,red,94,58
+1055,Trousers,Joggers,XS,orange,94,65
+1056,Trousers,Joggers,S,orange,94,43
+1057,Trousers,Joggers,M,orange,94,52
+1058,Trousers,Joggers,L,orange,94,49
+1059,Trousers,Joggers,XL,orange,94,44
+1060,Trousers,Joggers,XS,yellow,94,62
+1061,Trousers,Joggers,S,yellow,94,76
+1062,Trousers,Joggers,M,yellow,94,72
+1063,Trousers,Joggers,L,yellow,94,58
+1064,Trousers,Joggers,XL,yellow,94,69
+1065,Trousers,Joggers,XS,green,94,77
+1066,Trousers,Joggers,S,green,94,76
+1067,Trousers,Joggers,M,green,94,54
+1068,Trousers,Joggers,L,green,94,43
+1069,Trousers,Joggers,XL,green,94,56
+1070,Trousers,Joggers,XS,blue,94,67
+1071,Trousers,Joggers,S,blue,94,50
+1072,Trousers,Joggers,M,blue,94,78
+1073,Trousers,Joggers,L,blue,94,75
+1074,Trousers,Joggers,XL,blue,94,52
+1075,Trousers,Joggers,XS,indigo,94,74
+1076,Trousers,Joggers,S,indigo,94,56
+1077,Trousers,Joggers,M,indigo,94,66
+1078,Trousers,Joggers,L,indigo,94,42
+1079,Trousers,Joggers,XL,indigo,94,66
+1080,Trousers,Joggers,XS,violet,94,50
+1081,Trousers,Joggers,S,violet,94,63
+1082,Trousers,Joggers,M,violet,94,72
+1083,Trousers,Joggers,L,violet,94,60
+1084,Trousers,Joggers,XL,violet,94,40
+1085,Trousers,Cropped,XS,red,99,75
+1086,Trousers,Cropped,S,red,99,47
+1087,Trousers,Cropped,M,red,99,50
+1088,Trousers,Cropped,L,red,99,63
+1089,Trousers,Cropped,XL,red,99,78
+1090,Trousers,Cropped,XS,orange,99,78
+1091,Trousers,Cropped,S,orange,99,78
+1092,Trousers,Cropped,M,orange,99,56
+1093,Trousers,Cropped,L,orange,99,79
+1094,Trousers,Cropped,XL,orange,99,61
+1095,Trousers,Cropped,XS,yellow,99,41
+1096,Trousers,Cropped,S,yellow,99,65
+1097,Trousers,Cropped,M,yellow,99,41
+1098,Trousers,Cropped,L,yellow,99,60
+1099,Trousers,Cropped,XL,yellow,99,68
+1100,Trousers,Cropped,XS,green,99,48
+1101,Trousers,Cropped,S,green,99,71
+1102,Trousers,Cropped,M,green,99,65
+1103,Trousers,Cropped,L,green,99,55
+1104,Trousers,Cropped,XL,green,99,49
+1105,Trousers,Cropped,XS,blue,99,47
+1106,Trousers,Cropped,S,blue,99,62
+1107,Trousers,Cropped,M,blue,99,56
+1108,Trousers,Cropped,L,blue,99,45
+1109,Trousers,Cropped,XL,blue,99,51
+1110,Trousers,Cropped,XS,indigo,99,55
+1111,Trousers,Cropped,S,indigo,99,65
+1112,Trousers,Cropped,M,indigo,99,73
+1113,Trousers,Cropped,L,indigo,99,63
+1114,Trousers,Cropped,XL,indigo,99,58
+1115,Trousers,Cropped,XS,violet,99,65
+1116,Trousers,Cropped,S,violet,99,66
+1117,Trousers,Cropped,M,violet,99,47
+1118,Trousers,Cropped,L,violet,99,40
+1119,Trousers,Cropped,XL,violet,99,64
+1120,Trousers,Cargo Pants,XS,red,106,72
+1121,Trousers,Cargo Pants,S,red,106,63
+1122,Trousers,Cargo Pants,M,red,106,52
+1123,Trousers,Cargo Pants,L,red,106,61
+1124,Trousers,Cargo Pants,XL,red,106,45
+1125,Trousers,Cargo Pants,XS,orange,106,43
+1126,Trousers,Cargo Pants,S,orange,106,60
+1127,Trousers,Cargo Pants,M,orange,106,51
+1128,Trousers,Cargo Pants,L,orange,106,78
+1129,Trousers,Cargo Pants,XL,orange,106,61
+1130,Trousers,Cargo Pants,XS,yellow,106,68
+1131,Trousers,Cargo Pants,S,yellow,106,48
+1132,Trousers,Cargo Pants,M,yellow,106,72
+1133,Trousers,Cargo Pants,L,yellow,106,71
+1134,Trousers,Cargo Pants,XL,yellow,106,52
+1135,Trousers,Cargo Pants,XS,green,106,63
+1136,Trousers,Cargo Pants,S,green,106,79
+1137,Trousers,Cargo Pants,M,green,106,78
+1138,Trousers,Cargo Pants,L,green,106,42
+1139,Trousers,Cargo Pants,XL,green,106,65
+1140,Trousers,Cargo Pants,XS,blue,106,73
+1141,Trousers,Cargo Pants,S,blue,106,63
+1142,Trousers,Cargo Pants,M,blue,106,64
+1143,Trousers,Cargo Pants,L,blue,106,77
+1144,Trousers,Cargo Pants,XL,blue,106,57
+1145,Trousers,Cargo Pants,XS,indigo,106,51
+1146,Trousers,Cargo Pants,S,indigo,106,48
+1147,Trousers,Cargo Pants,M,indigo,106,51
+1148,Trousers,Cargo Pants,L,indigo,106,46
+1149,Trousers,Cargo Pants,XL,indigo,106,64
+1150,Trousers,Cargo Pants,XS,violet,106,40
+1151,Trousers,Cargo Pants,S,violet,106,79
+1152,Trousers,Cargo Pants,M,violet,106,58
+1153,Trousers,Cargo Pants,L,violet,106,74
+1154,Trousers,Cargo Pants,XL,violet,106,77
+1155,Trousers,High-Waisted,XS,red,98,74
+1156,Trousers,High-Waisted,S,red,98,80
+1157,Trousers,High-Waisted,M,red,98,59
+1158,Trousers,High-Waisted,L,red,98,52
+1159,Trousers,High-Waisted,XL,red,98,80
+1160,Trousers,High-Waisted,XS,orange,98,55
+1161,Trousers,High-Waisted,S,orange,98,42
+1162,Trousers,High-Waisted,M,orange,98,69
+1163,Trousers,High-Waisted,L,orange,98,78
+1164,Trousers,High-Waisted,XL,orange,98,47
+1165,Trousers,High-Waisted,XS,yellow,98,64
+1166,Trousers,High-Waisted,S,yellow,98,56
+1167,Trousers,High-Waisted,M,yellow,98,45
+1168,Trousers,High-Waisted,L,yellow,98,77
+1169,Trousers,High-Waisted,XL,yellow,98,78
+1170,Trousers,High-Waisted,XS,green,98,42
+1171,Trousers,High-Waisted,S,green,98,73
+1172,Trousers,High-Waisted,M,green,98,51
+1173,Trousers,High-Waisted,L,green,98,75
+1174,Trousers,High-Waisted,XL,green,98,78
+1175,Trousers,High-Waisted,XS,blue,98,51
+1176,Trousers,High-Waisted,S,blue,98,75
+1177,Trousers,High-Waisted,M,blue,98,52
+1178,Trousers,High-Waisted,L,blue,98,57
+1179,Trousers,High-Waisted,XL,blue,98,65
+1180,Trousers,High-Waisted,XS,indigo,98,47
+1181,Trousers,High-Waisted,S,indigo,98,79
+1182,Trousers,High-Waisted,M,indigo,98,61
+1183,Trousers,High-Waisted,L,indigo,98,55
+1184,Trousers,High-Waisted,XL,indigo,98,57
+1185,Trousers,High-Waisted,XS,violet,98,72
+1186,Trousers,High-Waisted,S,violet,98,45
+1187,Trousers,High-Waisted,M,violet,98,65
+1188,Trousers,High-Waisted,L,violet,98,68
+1189,Trousers,High-Waisted,XL,violet,98,74
+1190,Trousers,Pleated,XS,red,90,42
+1191,Trousers,Pleated,S,red,90,78
+1192,Trousers,Pleated,M,red,90,40
+1193,Trousers,Pleated,L,red,90,70
+1194,Trousers,Pleated,XL,red,90,58
+1195,Trousers,Pleated,XS,orange,90,74
+1196,Trousers,Pleated,S,orange,90,72
+1197,Trousers,Pleated,M,orange,90,57
+1198,Trousers,Pleated,L,orange,90,53
+1199,Trousers,Pleated,XL,orange,90,69
+1200,Trousers,Pleated,XS,yellow,90,75
+1201,Trousers,Pleated,S,yellow,90,71
+1202,Trousers,Pleated,M,yellow,90,54
+1203,Trousers,Pleated,L,yellow,90,62
+1204,Trousers,Pleated,XL,yellow,90,52
+1205,Trousers,Pleated,XS,green,90,58
+1206,Trousers,Pleated,S,green,90,55
+1207,Trousers,Pleated,M,green,90,41
+1208,Trousers,Pleated,L,green,90,47
+1209,Trousers,Pleated,XL,green,90,55
+1210,Trousers,Pleated,XS,blue,90,62
+1211,Trousers,Pleated,S,blue,90,60
+1212,Trousers,Pleated,M,blue,90,66
+1213,Trousers,Pleated,L,blue,90,79
+1214,Trousers,Pleated,XL,blue,90,55
+1215,Trousers,Pleated,XS,indigo,90,52
+1216,Trousers,Pleated,S,indigo,90,41
+1217,Trousers,Pleated,M,indigo,90,48
+1218,Trousers,Pleated,L,indigo,90,73
+1219,Trousers,Pleated,XL,indigo,90,45
+1220,Trousers,Pleated,XS,violet,90,58
+1221,Trousers,Pleated,S,violet,90,50
+1222,Trousers,Pleated,M,violet,90,45
+1223,Trousers,Pleated,L,violet,90,48
+1224,Trousers,Pleated,XL,violet,90,65
+1225,Trousers,Tracksuit Bottoms,XS,red,91,55
+1226,Trousers,Tracksuit Bottoms,S,red,91,57
+1227,Trousers,Tracksuit Bottoms,M,red,91,78
+1228,Trousers,Tracksuit Bottoms,L,red,91,43
+1229,Trousers,Tracksuit Bottoms,XL,red,91,45
+1230,Trousers,Tracksuit Bottoms,XS,orange,91,57
+1231,Trousers,Tracksuit Bottoms,S,orange,91,59
+1232,Trousers,Tracksuit Bottoms,M,orange,91,47
+1233,Trousers,Tracksuit Bottoms,L,orange,91,73
+1234,Trousers,Tracksuit Bottoms,XL,orange,91,42
+1235,Trousers,Tracksuit Bottoms,XS,yellow,91,76
+1236,Trousers,Tracksuit Bottoms,S,yellow,91,49
+1237,Trousers,Tracksuit Bottoms,M,yellow,91,80
+1238,Trousers,Tracksuit Bottoms,L,yellow,91,41
+1239,Trousers,Tracksuit Bottoms,XL,yellow,91,59
+1240,Trousers,Tracksuit Bottoms,XS,green,91,69
+1241,Trousers,Tracksuit Bottoms,S,green,91,72
+1242,Trousers,Tracksuit Bottoms,M,green,91,47
+1243,Trousers,Tracksuit Bottoms,L,green,91,66
+1244,Trousers,Tracksuit Bottoms,XL,green,91,49
+1245,Trousers,Tracksuit Bottoms,XS,blue,91,42
+1246,Trousers,Tracksuit Bottoms,S,blue,91,48
+1247,Trousers,Tracksuit Bottoms,M,blue,91,61
+1248,Trousers,Tracksuit Bottoms,L,blue,91,72
+1249,Trousers,Tracksuit Bottoms,XL,blue,91,68
+1250,Trousers,Tracksuit Bottoms,XS,indigo,91,63
+1251,Trousers,Tracksuit Bottoms,S,indigo,91,64
+1252,Trousers,Tracksuit Bottoms,M,indigo,91,59
+1253,Trousers,Tracksuit Bottoms,L,indigo,91,50
+1254,Trousers,Tracksuit Bottoms,XL,indigo,91,54
+1255,Trousers,Tracksuit Bottoms,XS,violet,91,67
+1256,Trousers,Tracksuit Bottoms,S,violet,91,48
+1257,Trousers,Tracksuit Bottoms,M,violet,91,73
+1258,Trousers,Tracksuit Bottoms,L,violet,91,45
+1259,Trousers,Tracksuit Bottoms,XL,violet,91,60
